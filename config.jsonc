@@ -171,7 +171,7 @@
 //   "type": "publicip",
 //   "key": "  \u001b[90m   └ \u001b[36m󰖟"
 // },
-
+// ----- Uncommented the above lines to show local and public IP -----
 
     {
       "type": "custom",
